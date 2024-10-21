@@ -6,9 +6,9 @@
 🔧 Currently mastering JavaScript, React, Node.js, and other cutting-edge web technologies.  
 📫 How to reach me: [arri.vdm@gmail.com](mailto:arri.vdm@gmail.com)  
 🔷 Pronouns: He/Him  
-🎉 Fun fact: Having been a Webflow developer opened my eyes to the vast world of Full-Stack Engineering!
+🎉 Fun fact: As a former Webflow developer, I discovered my passion for Full-Stack Engineering, eager to create seamless web solutions.
 
-## 🌟 Projects I'm Proud Of So Far in My Full-Stack Engineer Study Path:
+## 🌟 Projects I'm Proud Of During My Full-Stack Learning Journey:
 - 🚀 **Portfolio**: [Armand McKey Portfolio](https://github.com/armand-sa/portfolio-armand-mckey)  
 - 🏝️ **Exotic Isles Club**: [Live Demo](https://armand-sa.github.io/Exotic-Isles-Club/)  
 - 🏢 **Company Home Page with Flexbox**: [Live Demo](https://armand-sa.github.io/Company-Home-Page-with-Flexbox/)
