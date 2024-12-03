@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Armand McKey!
 
 📍 Based in Johannesburg, South Africa.  
-👨‍💻 Aspiring Full-Stack Engineer currently learning through Codecademy's Front-End and Back-End Career Paths.  
+👨‍💻 Aspiring Full-Stack Engineer currently learning through Dr. Angela Yu’s (London's App Brewery) Complete 2024 Full-Stack Web Developer Course on Udemy.  
 ✨ Interested in building responsive web applications and modern solutions.  
 🔧 Currently mastering JavaScript, React, Node.js, and other cutting-edge web technologies.  
 📫 How to reach me: [arri.vdm@gmail.com](mailto:arri.vdm@gmail.com)  
@@ -9,7 +9,7 @@
 🎉 Fun fact: As a former Webflow developer, I discovered my passion for Full-Stack Engineering, eager to create seamless web solutions.
 
 ## 🌟 Projects I'm Proud Of During My Full-Stack Learning Journey:
-- 🚀 **Portfolio**: [Armand McKey Portfolio](https://github.com/armand-sa/portfolio-armand-mckey)  
+- 🚀 **COMING SOON - Portfolio**: [Armand McKey Portfolio](https://github.com/armand-sa/portfolio-armand-mckey)  
 - 🏝️ **Exotic Isles Club**: [Live Demo](https://armand-sa.github.io/Exotic-Isles-Club/)  
 - 🏢 **Company Home Page with Flexbox**: [Live Demo](https://armand-sa.github.io/Company-Home-Page-with-Flexbox/)
 
