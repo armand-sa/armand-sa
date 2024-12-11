@@ -13,6 +13,13 @@
 
 ---
 
+## 📖 Index
+**1. [🔧 Tech Stack... so far](#-tech-stack-so-far-😉)**
+**2. [🌟 Projects I'm Proud Of](#-projects-im-proud-of-during-my-full-stack-learning-journey)**
+**3. [🤝 Collaboration & Contact](#-collaboration--contact)**
+
+---
+
 ## 🔧 Tech Stack... so far 😉
 ***Continuously expanding – stay tuned for progress updates!***  
   
@@ -21,23 +28,27 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+**[⬆️ Return to top](#-hi-im-armand-mckey)**  
+
 ---
 
 ## 🌟 Projects I'm Proud Of During My Full-Stack Learning Journey:
 - 🚀 **COMING SOON - Portfolio - Dec 2024 (HTML & CSS only)**:  
-  - **[Armand McKey's Portfolio](#)** & **[Figma UX/UI Design](#)**  
+  - **[Armand McKey's Portfolio](#)** & **[Figma UX/UI Design](#)**    
 
 - 🏝️ **Exotic Isles Club (HTML & CSS only)**:  
   - A visually engaging travel club website built with semantic HTML and modern CSS.  
-  - [Live Demo](https://armand-sa.github.io/Exotic-Isles-Club/)  
+  - [Live Demo](https://armand-sa.github.io/Exotic-Isles-Club/)   
 
 - 🏢 **Okavango Delta Conservation Alliance (HTML & CSS only)**:  
   - A conservation-focused homepage utilising Flexbox for layout.  
-  - [Live Demo](https://armand-sa.github.io/Company-Home-Page-with-Flexbox/)
+  - [Live Demo](https://armand-sa.github.io/Company-Home-Page-with-Flexbox/)  
 
 - 🏡 **Retreat Exchange Club (HTML & CSS only)**:  
   - A responsive platform for exchanging retreat opportunities.  
-  - [Live Demo](https://armand-sa.github.io/Retreat-Exchange-Club/)
+  - [Live Demo](https://armand-sa.github.io/Retreat-Exchange-Club/)  
+
+**[⬆️ Return to top](#-hi-im-armand-mckey)**  
 
 ---
 
@@ -47,6 +58,7 @@
 - ✉️ **How to reach me**: [arri.vdm@gmail.com](mailto:arri.vdm@gmail.com)  
 - 💬 Let’s connect if you have an exciting project or want to exchange ideas and knowledge!  
 
+**[⬆️ Return to top](#-hi-im-armand-mckey)** 
 
 <!---
 armand-sa/armand-sa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
