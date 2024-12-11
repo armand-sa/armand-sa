@@ -2,7 +2,7 @@
 
 📍 Based in Johannesburg, South Africa (SAST, UTC+2).  
 👨‍💻 **Aspiring Full-Stack Engineer currently enrolled in:**   
-&nbsp;&nbsp;&nbsp;&nbsp;**Dr Angela Yu’s (London’s App Brewery) Complete 2024 Full-Stack Web Developer Course on Udemy.**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Dr Angela Yu’s (London’s App Brewery) Complete 2024 Full-Stack Web Developer Course on Udemy.**  
 🎯 **Course Progress**: 20% complete (as of 11 Dec 2024).  
 ✨ Passionate about building responsive web applications and modern digital solutions.    
 🔧 **Currently mastering**: JavaScript, React, Node.js, and modern web technologies.    
