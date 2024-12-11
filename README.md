@@ -9,28 +9,28 @@
 🌐 **Open to remote Full-Stack Engineering roles** upon completing my course.  
 📫 **How to reach me**: [arri.vdm@gmail.com](mailto:arri.vdm@gmail.com)  
 🔷 Pronouns: He/Him  
-🎉 Former Webflow developer with a deep passion for creating seamless web experiences.<br><br>
+🎉 Former Webflow developer with a deep passion for creating seamless web experiences. 
 
 ---
 
 ## 📖 Index
-**1. [🔧 Tech Stack... so far](#-tech-stack-so-far-😉)**  
-**2. [🌟 Projects I'm Proud Of](#-projects-im-proud-of-during-my-full-stack-learning-journey)**  
-**3. [🤝 Collaboration & Contact](#-collaboration--contact)**<br><br> 
+1. [🔧 Tech Stack... so far](#-tech-stack-so-far-😉) 
+2. [🌟 Projects I'm Proud Of](#-projects-im-proud-of-during-my-full-stack-learning-journey) 
+3. [🤝 Collaboration & Contact](#-collaboration--contact) 
 
 ---
 
 ## 🔧 Tech Stack... so far 😉
 Continuously expanding – stay tuned for progress updates!    
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br><br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 [⬆️ Return to top](#-hi-im-armand-mckey)   
 
@@ -50,7 +50,7 @@ Continuously expanding – stay tuned for progress updates!
 
 - 🏡 **Retreat Exchange Club (HTML & CSS only)**:  
   - A responsive platform for exchanging retreat opportunities.  
-  - [Live Demo](https://armand-sa.github.io/Retreat-Exchange-Club/)<br><br>  
+  - [Live Demo](https://armand-sa.github.io/Retreat-Exchange-Club/)  
 
 [⬆️ Return to top](#-hi-im-armand-mckey)    
 
