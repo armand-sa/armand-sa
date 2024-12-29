@@ -7,7 +7,7 @@
 ✨ Passionate about building responsive web applications and modern digital solutions.    
 🔧 **Currently mastering**: JavaScript, React, Node.js, and modern web technologies.    
 🌐 **Open to remote Full-Stack Engineering roles** upon completing my course.  
-📫 **How to reach me**: [arri.vdm@gmail.com](mailto:arri.vdm@gmail.com)  
+📫 **How to reach me**: [armand.mckey@gmail.com](mailto:armand.mckey@gmail.com)  
 🔷 Pronouns: He/Him  
 🎉 Former Webflow developer with a deep passion for creating seamless web experiences. 
 
@@ -59,7 +59,7 @@ Continuously expanding – stay tuned for progress updates!
 ## 🤝 Collaboration & Contact:
 - 🔍 Actively seeking remote Full-Stack Engineering roles after completing my course (see **Course Progress** at the top for updates).  
 - 🛠️ Excited to work on impactful personal projects post-course completion. 
-- ✉️ **How to reach me**: [arri.vdm@gmail.com](mailto:arri.vdm@gmail.com)  
+- ✉️ **How to reach me**: [armand.mckey@gmail.com](mailto:armand.mckey@gmail.com)  
 - 💬 Let’s connect if you have an exciting project or want to exchange ideas and knowledge!<br><br>  
 
 [⬆️ Return to top](#-hi-im-armand-mckey)  
