@@ -3,10 +3,10 @@
 📍 Based in Johannesburg, South Africa (SAST, UTC+2).  
 👨‍💻 **Aspiring Full-Stack Engineer currently enrolled in:**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Dr Angela Yu’s (London’s App Brewery) Complete 2024 Full-Stack Web Developer Course on Udemy.**  
-🎯 **Course Progress**: **20%** 🟢🟢 **complete** (as of 11 Dec 2024).    
-✨ Passionate about building responsive web applications and modern digital solutions. 
-⚠️ Prioritising **accessibility and SEO best practices** to create **inclusive and optimised web applications**.
-🔧 **Currently mastering**: JavaScript, React, Node.js, and modern web technologies.    
+🎯 **Course Progress**: **20%** 🟢🟢 **complete** (as of 11 Dec 2024).      
+✨ Passionate about building responsive web applications and modern digital solutions.   
+⚠️ Prioritising **accessibility and SEO best practices** to create **inclusive and optimised web applications**.  
+🔧 **Currently mastering**: JavaScript, React, Node.js, and modern web technologies.      
 🌐 **Open to remote Full-Stack Engineering roles** upon completing my course.  
 📫 **How to reach me**: [armand.mckey@gmail.com](mailto:armand.mckey@gmail.com)  
 🔷 Pronouns: He/Him  
